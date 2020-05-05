@@ -1,2 +1,0 @@
-# PixiDevStudio
-Created with CodeSandbox
